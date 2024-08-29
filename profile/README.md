@@ -13,17 +13,10 @@ At Th3-AI, our vision is to create AI that not only solves complex problems but 
 ## Projects
 
 ### 🔥 [DynaSpark](https://dynaspark.onrender.com)
-An advanced AI assistant designed to engage in dynamic and intelligent conversations. DynaSpark adapts its personality and communication style to provide expert assistance across various topics.
-
-### 
+An advanced AI assistant designed to engage in dynamic and intelligent conversations, with advance image generation capabilities. DynaSpark adapts its personality and communication style to provide expert assistance across various topics.
 
 ### 🌐 [Th3-AI Hub](https://th3-ai.github.io)
 A user-friendly web interface that allows seamless interaction with our AI models. Whether you're generating images or having a chat, this is your go-to platform.
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 <!--
