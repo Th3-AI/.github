@@ -1,8 +1,10 @@
-# Welcome to Th3-AI 🚀
+<h1 align="center">Welcome to Th3-AI 🚀</h1>
 
-![Th3-AI Banner](https://img1.wsimg.com/isteam/ip/fe671351-6f24-41a1-9382-e1e502b566f0/Th3-AI.png/:/rs=w:512,h:512,m)
-
-## About Us
+<div><img src="https://raw.githubusercontent.com/Th3-AI/Th3-AI.github.io/main/assets/Th3-AI-D.png" alt="Th3-AI Banner" width="12%" align="left"><img src="https://raw.githubusercontent.com/Th3-AI/Th3-AI.github.io/main/assets/Th3-AI-L.png" alt="Th3-AI Banner" width="12%" align="right">
+  <br>
+<img src="https://raw.githubusercontent.com/Th3-AI/Th3-AI.github.io/main/assets/Th3-AI-S-D.png" alt="Th3-AI Banner" width="12%" align="left"><img src="https://raw.githubusercontent.com/Th3-AI/Th3-AI.github.io/main/assets/Th3-AI-S-L.png" alt="Th3-AI Banner" width="12%" align="right"></div>
+<br><br><br><br>
+<h2 align="center">About Us</h2>
 
 Th3-AI is an innovative organization dedicated to pushing the boundaries of artificial intelligence and machine learning. Founded by **Th3-C0der**, we focus on developing cutting-edge AI solutions that ignite dynamic interactions and drive technological advancements.
 
